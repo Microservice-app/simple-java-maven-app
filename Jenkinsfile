@@ -12,7 +12,7 @@ pipeline {
                 sh 'mvn -version'
                 sh 'java -version'
 
-                echo 'Hello World 3'
+                echo 'Hello World 4'
             }
         }
     }
